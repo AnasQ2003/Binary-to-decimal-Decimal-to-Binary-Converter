@@ -8,7 +8,7 @@
 ![Bahria University](https://img.shields.io/badge/Bahria_University-Compiler_Lab-003087?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/5th_Semester-CC_Lab_Project-success?style=for-the-badge)
 
-A double-module educational repository developed for the **Compiler Construction Lab** at Bahria University. It features a complete custom scripting language interpreter (**Auxil Language**) built from scratch, and a graphical **Compiler Phase Simulator** targeting numerical base conversions (Binary, Octal, Decimal, Hexadecimal) to showcase lexical, syntax, semantic, and intermediate code generation phases in a structured GUI format.
+A double-module educational repository developed for the **Compiler Construction Lab**. It features a complete custom scripting language interpreter (**Auxil Language**) built from scratch, and a graphical **Compiler Phase Simulator** targeting numerical base conversions (Binary, Octal, Decimal, Hexadecimal) to showcase lexical, syntax, semantic, and intermediate code generation phases in a structured GUI format.
 
 </div>
 
@@ -148,7 +148,43 @@ Binary-to-decimal-Decimal-to-Binary-Converter/
 
 ---
 
+## 📄 License
+
+```
+MIT License
+
+Copyright (c) Binary_to_Decimal & Decimal_to_Binary Convertor---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+---
+
 ## 👨‍💻 Author
 
-**Anas Qayyum**
-- GitHub: [@AnasQ2003](https://github.com/AnasQ2003)
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+</div>
